@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">BMI</string>
+    <string name="all_mass">Mass</string>
+    <string name="all_height">Height</string>
+    <string name="all_count">Count</string>
+    <string name="all_your_bmi">Your BMI:</string>
+    <string name="imperial_units">Imperial units (feet, pounds)</string>
+    <string name="metric_units">Metric units (meters, kilograms)</string>
+    <string name="very_severely_underweight">Very severely underweight</string>
+    <string name="severely_underweight">Severely underweight</string>
+    <string name="underweight">Underweight</string>
+    <string name="normal_weight">Normal weight</string>
+    <string name="overweight">Overweight</string>
+    <string name="obese_first_class">Obese - class I</string>
+    <string name="obese_second_class">Obese - class II</string>
+    <string name="obese_third_class">Obese - class III</string>
+    <string name="invalid_data">Invalid data</string>
+    <string name="and">and</string>
+    <string name="pounds">pounds</string>
+    <string name="have_to_be_between">have to be between</string>
+    <string name="feet">feet</string>
+    <string name="kilograms">kilograms</string>
+    <string name="meters">meters</string>
+    <string name="here_is_my_bmi_value">Here is my BMI value:</string>
+    <string name="saved_successfully">Saved successfully.</string>
+    <string name="cant_save">Can\'t save</string>
+    <string name="result">Result</string>
+    <string name="menu_main_save">Save</string>
+    <string name="menu_main_share">Share</string>
+    <string name="menu_main_about">About</string>
+    <string name="textview_about_description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus lacinia vulputate purus eget lacinia. Cras congue blandit tempor. Integer varius diam ac justo ornare accumsan. Donec quam nunc, fermentum in justo eget, tempus pellentesque leo. Nulla mi nulla, ornare a leo efficitur, tincidunt egestas urna. Aliquam luctus enim id tincidunt vulputate. Maecenas ut tincidunt enim. Duis consequat interdum leo, id tincidunt nulla consequat et. Fusce commodo massa arcu, quis lacinia nibh ultricies ac. Sed vel urna vel ante mollis rhoncus eu id risus. Nullam aliquet, lectus eget porta porttitor, libero libero convallis est, sit amet varius augue risus sit amet lacus. Morbi sed malesuada leo, vel mollis nibh.</string>
+    <string name="about_author">About author</string>
+</resources>

@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">BMI</string>
+    <string name="all_mass">Masa</string>
+    <string name="all_height">Wzrost</string>
+    <string name="all_count">Oblicz</string>
+    <string name="all_your_bmi">Twoje BMI:</string>
+    <string name="imperial_units">Jednostki imperialne (stopy, funty)</string>
+    <string name="metric_units">Jednostki metryczne (metry, kilogramy)</string>
+    <string name="very_severely_underweight">Wygłodzenie</string>
+    <string name="severely_underweight">Wychudzenie</string>
+    <string name="underweight">Niedowaga</string>
+    <string name="normal_weight">Wartość prawidłowa</string>
+    <string name="overweight">Nadwaga</string>
+    <string name="obese_first_class">I stopień otyłości</string>
+    <string name="obese_second_class">II stopień otyłości</string>
+    <string name="obese_third_class">III stopień otyłości</string>
+    <string name="invalid_data">Nieprawidłowe dane</string>
+    <string name="and">i</string>
+    <string name="pounds">funtów</string>
+    <string name="have_to_be_between">musi być pomiędzy</string>
+    <string name="feet">stóp</string>
+    <string name="kilograms">kilogramów</string>
+    <string name="meters">metrów</string>
+    <string name="cant_save">Nie można zapisać</string>
+    <string name="here_is_my_bmi_value">Moja wartość BMI wynosi:</string>
+    <string name="result">Wynik</string>
+    <string name="saved_successfully">Zapisano pomyślnie</string>
+    <string name="menu_main_about">O autorze</string>
+    <string name="menu_main_save">Zapisz</string>
+    <string name="menu_main_share">Udostępnij</string>
+    <string name="about_author">O autorze</string>
+</resources>
